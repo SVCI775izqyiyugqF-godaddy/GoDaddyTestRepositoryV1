@@ -32,7 +32,7 @@ jobs:
         repo-token: ${{ github.token }}
         tag: "${{ steps.sncicd-publish-app.outputs.newVersion }}"
 
-    - name: Install to PROD
+    - name: Install to TEST
       if: ${{ success() && steps.sncicd-publish-app.outputs.newVersion }}
       uses: ServiceNow/sncicd-install-app@1.0.0
       with:
