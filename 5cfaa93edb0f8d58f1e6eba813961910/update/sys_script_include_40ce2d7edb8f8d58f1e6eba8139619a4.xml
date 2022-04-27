@@ -12,7 +12,7 @@ Feature_0427_04321.prototype = {
     initialize: function() {
    },
 
-    sayHello222: function() {
+    sayHello: function() {
  	   return "Hello!";
     },
  
@@ -23,7 +23,7 @@ Feature_0427_04321.prototype = {
         <sys_created_on>2022-04-27 19:59:44</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>40ce2d7edb8f8d58f1e6eba8139619a4</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Feature_0427</sys_name>
         <sys_package display_value="SVCI775izqyiyugqF-godaddy-DemoApp" source="x_gmi_svci775izqyi">5cfaa93edb0f8d58f1e6eba813961910</sys_package>
         <sys_policy>read</sys_policy>
@@ -31,6 +31,6 @@ Feature_0427_04321.prototype = {
         <sys_scope display_value="SVCI775izqyiyugqF-godaddy-DemoApp">5cfaa93edb0f8d58f1e6eba813961910</sys_scope>
         <sys_update_name>sys_script_include_40ce2d7edb8f8d58f1e6eba8139619a4</sys_update_name>
         <sys_updated_by>vayyagari</sys_updated_by>
-        <sys_updated_on>2022-04-27 21:36:02</sys_updated_on>
+        <sys_updated_on>2022-04-27 21:40:50</sys_updated_on>
     </sys_script_include>
 </record_update>
